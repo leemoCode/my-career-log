@@ -14,11 +14,6 @@ clone代码 报错unable to get local issuer certificate
 ## 安装nodejs
 https://nodejs.org/en/download/current/
 
-
-## vscode内 npm 报错
-npm : 无法将“npm”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次
-以管理员身份运行 vscode ，再执行npm run dev命令就解决了
-
 ##  查询各种方法支持的浏览器版本
 https://caniuse.com/
 
